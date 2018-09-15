@@ -23,7 +23,7 @@ or
 
 ```
 chmod +x Zabbix.sh
-Zabbix.sh <arguments>
+./Zabbix.sh <arguments>
 ```
 
 ### Arguments
